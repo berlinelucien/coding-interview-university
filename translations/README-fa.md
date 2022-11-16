@@ -58,48 +58,24 @@
     <p>
         <strong>Special thanks to:</strong>
     </p>
-    <p>
-        <a href="https://simplify.jobs/?utm_source=github&utm_medium=coding-interview-university">
+    <div>
+        <a href="https://algo.monster/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github">
             <div>
-                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/simplify-logo.png" width="400"  alt="Simplify">
+                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/algo-monster.png" width="300" alt="AlgoMonster">
             </div>
             <div>
                 <p>
-                    <strong>Applying to jobs? Autofill all your applications in 1-click.</strong>
+                    <strong>Master the technical interview without endless grinding.</strong>
                 </p>
             </div>
             <div>
-                <sup>Stop manually re-entering your information. Simplify’s extension helps you autofill jobs &amp; internship applications on millions of sites.</sup>
+                <sup>Created by ex-Google engineers, AlgoMonster will help you crush the technical interview in less time 
+                and with fewer sleepless nights grinding away random problems. You will learn the key patterns necessary to solve 
+                any interview question and gain the systematic knowledge you need to prove your expertise. Be more confident 
+                as you walk into that interview!</sup>
             </div>
         </a>
-    </p>
-    <br />
-    <p>
-        <a href="https://oss.capital/">
-            <div>
-                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/oss-capital.svg" width="350" alt="OSS Capital">
-            </div>
-            <div>
-                <sup><strong>Founded in 2018, OSS Capital is the first and only venture capital platform focused<br>exclusively on supporting early-stage COSS (commercial open source) startup founders.</strong></sup>
-            </div>
-        </a>
-    </p>
-    <br />
-    <p>
-        <a href="https://www.gitpod.io/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github">
-            <div>
-                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/gitpod-logo-light-theme.svg" width="300" alt="Gitpod">
-            </div>
-            <div>
-                <p>
-                    <strong>Dev environments built for the cloud</strong>
-                </p>
-            </div>
-            <div>
-                <sup>Natively integrated with GitLab, GitHub, and Bitbucket, Gitpod automatically and continuously prebuilds dev environments for all your branches. As a result team members can instantly start coding with fresh dev environments for each new task - no matter if you are building a new feature, want to fix a bug, or work on a code review.</sup>
-            </div>
-        </a>
-    </p>
+    </div>
     <hr />
 </div>
 
@@ -1206,7 +1182,7 @@ Choose one:
 
 - [ ] Series of 2-3 minutes short subject videos (23 videos)
     - [Videos](https://www.youtube.com/watch?v=r4r1DZcx1cM&list=PLmVb1OknmNJuC5POdcDv5oCS7_OUkDgpj&index=22)
-- [ ] Series of 2-5 minutes short subject videos - Michael Sambol (18 videos):
+- [ ] Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):
     - [Videos](https://www.youtube.com/channel/UCzDJwLWoYCUQowF_nG3m5OQ)
 - [ ] [Sedgewick Videos - Algorithms I](https://www.coursera.org/learn/algorithms-part1)
 - [ ] [Sedgewick Videos - Algorithms II](https://www.coursera.org/learn/algorithms-part2)
@@ -1252,7 +1228,7 @@ Choose one:
         - Many times, it’s not your technical competency that holds you back from landing your dream job, it’s how you perform on the behavioral interview.
 
 Mock Interviews:
-- [Gainlo.co: Mock interviewers from big companies](http://www.gainlo.co/) - I used this and it helped me relax for the phone screen and on-site interview
+- [Gainlo.co: Mock interviewers from big companies](http://www.gainlo.co/#!/) - I used this and it helped me relax for the phone screen and on-site interview
 - [Pramp: Mock interviews from/with peers](https://www.pramp.com/) - peer-to-peer model of practice interviews
 - [interviewing.io: Practice mock interview with senior engineers](https://interviewing.io) - anonymous algorithmic/systems design interviews with senior engineers from FAANG anonymously
 
@@ -1507,7 +1483,6 @@ Mock Interviews:
             - [Emacs Tutorial (Beginners) -Part 3- Expressions, Statements, ~/.emacs file and packages](https://www.youtube.com/watch?v=paSgzPso-yc)
         - [Evil Mode: Or, How I Learned to Stop Worrying and Love Emacs (video)](https://www.youtube.com/watch?v=JWD1Fpdd4Pc)
         - [Writing C Programs With Emacs](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#Writing_C_programs_with_Emacs)
-        - [(maybe) Org Mode In Depth: Managing Structure (video)](https://www.youtube.com/watch?v=nsGYet02bEk)
 
 - ### Unix command line tools
     - I filled in the list below from good tools.
@@ -1692,7 +1667,7 @@ Mock Interviews:
         - [Aduni - Algorithms - Lecture 4 (link jumps to starting point) (video)](https://youtu.be/1W3x0f_RmUo?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3871)
         - [Aduni - Algorithms - Lecture 5 (video)](https://www.youtube.com/watch?v=hm2GHwyKF1o&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=5)
         - [Red-Black Tree](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree)
-        - [An Introduction To Binary Search And Red Black Tree](https://www.topcoder.com/community/competitive-programming/tutorials/an-introduction-to-binary-search-and-red-black-trees/)
+        - [An Introduction To Binary Search And Red Black Tree](https://www.topcoder.com/thrive/articles/An%20Introduction%20to%20Binary%20Search%20and%20Red-Black%20Trees)
 
     - **2-3 search trees**
         - In practice:
@@ -1799,7 +1774,6 @@ Mock Interviews:
         - [Google's Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning--ud730)
         - [Google/Kaggle Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree-by-google--nd009)
         - [Self-Driving Car Engineer Nanodegree](https://www.udacity.com/drive)
-        - [Metis Online Course ($99 for 2 months)](http://www.thisismetis.com/explore-data-science)
     - Resources:
         - Books:
             - [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka/dp/1783555130/)
